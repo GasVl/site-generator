@@ -1,2 +1,4 @@
  For MSVC
 *.lastcodeanalysissucceeded
+*.pdb
+*.ilk
