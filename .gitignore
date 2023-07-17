@@ -2,3 +2,4 @@
 *.lastcodeanalysissucceeded
 *.pdb
 *.ilk
+*.obj
