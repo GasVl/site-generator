@@ -28,3 +28,4 @@ Windows/ARM
 Windows/ARM64
 Windows/ipch
 Windows/bin-release
+Windows/win-version.h
