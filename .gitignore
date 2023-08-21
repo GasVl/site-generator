@@ -31,3 +31,4 @@ Windows/bin-release
 Windows/win-version.h
 Windows/win-version-*.tmp
 android/assets
+ext/_Output
