@@ -32,3 +32,4 @@ Windows/win-version.h
 Windows/win-version-*.tmp
 android/assets
 ext/_Output
+android/lint.xml
