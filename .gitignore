@@ -1,4 +1,4 @@
- For MSVC
+d For MSVC
 *.lastcodeanalysissucceeded
 *.pdb
 *.ilk
@@ -37,3 +37,4 @@ PPSSPPWindows64.exe.manifest
 PPSSPPWindows.exe.manifest
 PPSSPPWindowsARM64.exe.manifest
 PPSSPPWindowsARM.exe.manifest
+PPSSPPDebug64.exe.manifest
