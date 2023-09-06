@@ -44,3 +44,4 @@ PPSSPPDebugARM.exe.manifest
 assets/flash0
 UWP/icph
 UWP/*.ipch
+UWP/Content/*
