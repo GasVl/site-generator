@@ -45,3 +45,4 @@ assets/flash0
 UWP/icph
 UWP/*.ipch
 UWP/Content/*
+!UWP/Content/.empty
