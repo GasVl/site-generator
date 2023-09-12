@@ -47,3 +47,4 @@ UWP/*.ipch
 UWP/Content/*
 !UWP/Content/.empty
 UWP/.vs
+.vs
