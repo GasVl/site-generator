@@ -53,3 +53,4 @@ UWP/.vs
 # For Mac
 .DS_Store
 PPSSPPSDL.app
+include/glslang/build_info.h
