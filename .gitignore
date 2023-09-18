@@ -54,3 +54,5 @@ UWP/.vs
 .DS_Store
 PPSSPPSDL.app
 include/glslang/build_info.h
+
+# For ppsspp.ini, etc.
