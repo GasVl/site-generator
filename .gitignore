@@ -57,3 +57,4 @@ include/glslang/build_info.h
 
 # For ppsspp.ini, etc.
 ppsspp.ini
+PPSSPPControls.dat
