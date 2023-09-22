@@ -60,3 +60,4 @@ ppsspp.ini
 PPSSPPControls.dat
 
 # Qt Linguist files
+*.qm
