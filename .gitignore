@@ -61,3 +61,5 @@ PPSSPPControls.dat
 
 # Qt Linguist files
 *.qm
+
+# Gradle/Android Studio
