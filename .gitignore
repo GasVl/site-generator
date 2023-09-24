@@ -63,3 +63,4 @@ PPSSPPControls.dat
 *.qm
 
 # Gradle/Android Studio
+.gradle
