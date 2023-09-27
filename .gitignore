@@ -66,3 +66,4 @@ PPSSPPControls.dat
 .gradle
 .idea
 *.iml
+build
