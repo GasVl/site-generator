@@ -67,3 +67,4 @@ PPSSPPControls.dat
 .idea
 *.iml
 build
+/build*/
