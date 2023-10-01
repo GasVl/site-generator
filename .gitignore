@@ -70,3 +70,4 @@ build
 /build*/
 versionname.txt
 versioncode.txt
+android/.cxx
