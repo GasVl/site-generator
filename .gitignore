@@ -71,3 +71,5 @@ build
 versionname.txt
 versioncode.txt
 android/.cxx
+
+# Temp file used by jenkins windows build (TODO: remove)
