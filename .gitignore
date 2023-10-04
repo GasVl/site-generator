@@ -74,3 +74,5 @@ android/.cxx
 
 # Temp file used by jenkins windows build (TODO: remove)
 desc.txt
+
+Logs
