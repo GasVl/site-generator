@@ -100,3 +100,4 @@ ppge_atlas.zim.png
 local.properties
 r.sh
 Windows/compileData*
+Windows/*.ipch
