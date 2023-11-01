@@ -101,3 +101,5 @@ local.properties
 r.sh
 Windows/compileData*
 Windows/*.ipch
+
+# For vim
