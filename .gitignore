@@ -103,3 +103,4 @@ Windows/compileData*
 Windows/*.ipch
 
 # For vim
+*.swp
