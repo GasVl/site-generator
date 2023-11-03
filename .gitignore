@@ -104,3 +104,4 @@ Windows/*.ipch
 
 # For vim
 *.swp
+tags
