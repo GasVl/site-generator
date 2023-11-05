@@ -107,3 +107,4 @@ Windows/*.ipch
 tags
 
 # Other VCS
+.bzr/
