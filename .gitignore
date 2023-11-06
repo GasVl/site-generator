@@ -108,3 +108,4 @@ tags
 
 # Other VCS
 .bzr/
+.bzrignore
