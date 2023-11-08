@@ -111,3 +111,4 @@ tags
 .bzrignore
 
 # Debian build
+debian/files
