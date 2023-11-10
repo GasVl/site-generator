@@ -113,3 +113,4 @@ tags
 # Debian build
 debian/files
 debian/ppsspp.substvars
+debian/ppsspp/
