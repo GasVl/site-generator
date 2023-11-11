@@ -114,3 +114,5 @@ tags
 debian/files
 debian/ppsspp.substvars
 debian/ppsspp/
+
+# Libretro build
