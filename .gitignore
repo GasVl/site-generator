@@ -116,3 +116,4 @@ debian/ppsspp.substvars
 debian/ppsspp/
 
 # Libretro build
+*.o
