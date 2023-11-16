@@ -122,3 +122,4 @@ debian/ppsspp/
 .ycm_extra_conf.pyc
 
 # RenderDoc
+*.rdc
