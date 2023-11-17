@@ -123,3 +123,5 @@ debian/ppsspp/
 
 # RenderDoc
 *.rdc
+
+# CMake stuff
