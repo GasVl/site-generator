@@ -125,3 +125,4 @@ debian/ppsspp/
 *.rdc
 
 # CMake stuff
+CMakeFiles
