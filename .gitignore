@@ -128,3 +128,4 @@ debian/ppsspp/
 CMakeFiles
 
 # Clangd 
+.cache/
