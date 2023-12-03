@@ -7,3 +7,5 @@ indent_style = tab
 insert_final_newline = true
 # Would be nice, but don't want to change files unnecessarily.
 #trim_trailing_whitespace = true
+
+[*.{py,yml}]
